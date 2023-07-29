@@ -1,38 +1,49 @@
 # Celo Uganda Developer Workshop 3.0
 
-## ⚡ Hackathon Project Template ⚡
+## ⚡ Crafts Africa ⚡
 
 
 This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
 ### PROJECT READ ME FORMAT
 
-1. Project Name
+1. Crafts Africa
 
-2. Team name and Roles
+2. Team Africa
+    - Nyonyintono Isaac Pitwa - Senior Developer
+    - Dricile Henry - Technical Writer 
+    - Luganda Yoweri - Technical Writer 
+    - Bakashaba Jacob - Research 
+    - Twongirwe Abdulrahman - Project Manager
+    - Masanyu Ibrahim - Reseacher
+    - Edgar Ampiire - Developer II
+    - David Junior Okello - Developer II
 
-3. Hackathon Track
+4. Hackathon Track
   - __DAO Track:__ 
     - Build decentralized web applications facilitating DAOs within ReFi, ReFi DAO Tools, and ReFi DAO Infrastructure.
   - __NFT, Gaming and Creator Track:__ 
- 	- Build an application incorporating ReFi, ReFi creators tools, and ReFi creators infrastructure
+ 	- Build an application incorporating ReFi, ReFi creator's tools, and ReFi creator's infrastructure
   - __Social Impact Track:__ 
- 	- Build a decentralized web applications focused on social impact within ReFi, Social impact ReFi Tools, and Social impact ReFi Infrastructure
+ 	- Build a decentralized web application focused on social impact within ReFi, Social impact ReFi Tools, and Social impact ReFi Infrastructure
 
-4. Project Description
+4. Project Description- low accesibility on both artcraft and the market, with this project we will be ble to avail choices of the products to the consumers as well as creating a wider market to the producers. -lack of common price, this project will enable both the prroducers and the consumers to make iformed decissions about purchasing those products.-
+   
+   
   - Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
-  - URLs
+  5.- URLs.,- https://idears4development.org
 List any URLs relevant to demonstrating your prototype
   - Presentation
-List any links to your presentation or any related visuals you want to share.
+List any links to your presentation or any related visuals you want to share.'-http://hdl.handle.net/20.500.12281/5655
 
 Next Steps
-What do you need to do next to turn this prototype into a working solution?
+What do you need to do next to turn this prototype into a working solution?- need cloud services for hosting. -patternaships with people with crafts
 
 5. Summary
+   this  website avails different forms of arts and crafts to the market i.e from shoes to traditional weapons etc,allowing accessibility and also promote the industry even more than it was. 
 
 Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
 
-
+searching engine
 
 ## Hackathon Repo Process
 
